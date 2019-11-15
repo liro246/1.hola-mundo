@@ -8,7 +8,7 @@ export class BodyComponent{
 
     mostrar=true;
     frase:any={
-        mensaje:"Un gran poder rewquiere una gran responsabilidad",
+        mensaje:"Prueba mensaje git",
         autor:"Ben Parker"
     }
 
