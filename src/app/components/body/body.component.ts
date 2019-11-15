@@ -8,7 +8,7 @@ export class BodyComponent{
 
     mostrar=true;
     frase:any={
-        mensaje:"Un gran poder requiere una gran responsabilidad - Lino cabecemachete",
+        mensaje:"Un gran poder requiere una gran responsabilidad - Julián Cambio",
         autor:"Ben Parker"
     }
 
